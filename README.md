@@ -24,3 +24,51 @@
 | MongoDB | Node | Express | RestAPI |
 |:-------:|:----:|:-------:|:-------:|
 | <img src="assets/mongodb-svgrepo-com.svg" width="50"/> | <img src="assets/node-js-svgrepo-com.svg" width="50"/> | <img src="assets/express-svgrepo-com.svg" width="50"/> | <img src="assets/rest-api-svgrepo-com.svg" width="50"/> |
+
+
+---
+
+##  My Projects
+
+### Portfolio - Gerardo Michele Mussuto
+| Preview | Links | Tech Stack |
+|:-------:|:-----:|:----------:|
+![Preview Screenshot](./assets/preview-portfolio.png) | [Demo](https://www.google.com)<br>[Repo](https://github.com/Onid89) | <img src="assets/react-svgrepo-com.svg" width="40"/> <img src="assets/tailwind-svgrepo-com.svg" width="40"/> <img src="assets/vite-svgrepo-com.svg" width="40"/> |
+
+---
+
+Weather App
+
+| Preview | Links | Technical Stack |
+|:-------:|:-----:| --------------- |
+
+---
+
+Opera Project
+
+| Preview | Links | Technical Stack |
+|:-------:|:-----:| --------------- |
+
+---
+
+PokémonAPI
+
+| Preview | Links | Technical Stack |
+|:-------:|:-----:| --------------- |
+
+---
+
+### GAMES
+
+Trivia Game
+| Preview | Links | Technical Stack |
+|:-------:|:-----:| --------------- |
+---
+
+### TOOLS
+
+Code Square Chat
+
+| Preview | Links | Technical Stack |
+|:-------:|:-----:| --------------- |
+---
