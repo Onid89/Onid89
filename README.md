@@ -9,9 +9,9 @@
 
 ### Layout Design
 
-| HTML5 | CSS3 | SASS | Tailwind | Bootstrap | Figma |
-|:-----:|:----:|:----:|:--------:|:---------:|:-----:|
-| <img src="assets/html-5-svgrepo-com.svg" width="40"/> | <img src="assets/css-3-svgrepo-com.svg" width="40"/> | <img src="assets/scss2-svgrepo-com.svg" width="40"/> | <img src="assets/tailwind-svgrepo-com.svg" width="40"/> | <img src="assets/bootstrap-4-logo-svgrepo-com.svg" width="40"/> | <img src="assets/figma-svgrepo-com.svg" width="40"/> |
+| HTML5 | CSS3 | SASS | Tailwind | Bootstrap | Figma | React |
+|:-----:|:----:|:----:|:--------:|:---------:|:-----:|:-----:|     
+| <img src="assets/html-5-svgrepo-com.svg" width="40"/> | <img src="assets/css-3-svgrepo-com.svg" width="40"/> | <img src="assets/scss2-svgrepo-com.svg" width="40"/> | <img src="assets/tailwind-svgrepo-com.svg" width="40"/> | <img src="assets/bootstrap-4-logo-svgrepo-com.svg" width="40"/> | <img src="assets/figma-svgrepo-com.svg" width="40"/> | <img src="assets/react-svgrepo-com.svg" width="40"/> |
 
 ### Frontend Development
 
@@ -41,6 +41,8 @@ Weather App
 
 | Preview | Links | Technical Stack |
 |:-------:|:-----:| --------------- |
+![Preview Screenshot](./assets/preview-portfolio.png) | [Demo](https://onid89.github.io/Web-Dev-Portfolio/)<br><br>[Repo](https://github.com/Onid89/onid89-creative-code-showcase) | <img src="assets/react-svgrepo-com.svg" width="40"/> <img src="assets/tailwind-svgrepo-com.svg" width="40"/> <img src="assets/vite-svgrepo-com.svg" width="40"/> |
+
 
 ---
 
