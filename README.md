@@ -41,7 +41,7 @@ Weather App
 
 | Preview | Links | Technical Stack |
 |:-------:|:-----:| --------------- |
-![Preview Screenshot](./assets/Weather-App.png) | [Demo](https://onid89.github.io/Weather-App)<br><br>[Repo](https://github.com/Onid89/Weather-App) | <img src="assets/javascript-svgrepo-com.svg" width="40"/> <img src="assets/html5-svgrepo-com.svg" width="40"/> <img src="assets/css3-svgrepo-com.svg" width="40"/> |
+![Preview Screenshot](./assets/Weather-App.png) | [Demo](https://onid89.github.io/Weather-App)<br><br>[Repo](https://github.com/Onid89/Weather-App) | <img src="assets/javascript-svgrepo-com.svg" width="40"/> <img src="assets/html-5-svgrepo-com.svg" width="40"/> <img src="assets/css-3-svgrepo-com.svg" width="40"/> |
 
 
 ---
