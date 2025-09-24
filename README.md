@@ -1,6 +1,4 @@
-# Full Stack Web Developer
-
-👋 Hi, I’m Gerardo a junior full stack web developer based in Berlin.
+# 👋 Hi, I’m Gerardo a junior full stack web developer based in Berlin.
 
 💻 Passionate about building clean, responsive, and user-friendly web applications.
 
