@@ -1,87 +1,119 @@
-# 👋 Hi, I’m Gerardo!
+<div align="center">
 
-💻  Junior full stack web developer based in Berlin. 
+# Hi, I'm Gerardo Michele Mussuto 👋
 
-✨ Passionate about building clean, responsive, and user-friendly web applications.
+### Full Stack Developer | Exploring AI Engineering & Automation
 
-🎭 With a background in the arts and performance, I bring creativity and attention to detail into my code.
+📍 Berlin, Germany · 🇮🇹 Italian · 🌍 English · 🇩🇪 German (B1)
 
-🚀 Currently exploring MERN stack, React, and Node.js, and always eager to learn new technologies.
+**I build practical web applications and automations with a focus on usability, problem-solving, and real-world impact.**
 
-🔎 Open to collaborations, projects, and new opportunities.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20website-0A66C2?style=for-the-badge)](https://www.dino-webservices.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-michele-mussuto/)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinomussuto89@gmail.com)
+
+</div>
+
+## About me
+
+I'm a Berlin-based developer with training in full-stack web development and hands-on experience building React applications, Node.js APIs, real-time communication features, and workflow automations.
+
+Before moving into technology, I spent years working professionally in opera and ballet. That background shaped how I collaborate, communicate, and pay attention to detail. Today, I'm building on my software engineering foundation while exploring **AI engineering, cloud services, and practical automation**.
+
+- 🔭 **Focus:** Full-stack development, AI-powered applications, and automation
+- 🧩 **Experience with:** React, TypeScript, JavaScript, Node.js, Express, MongoDB, C# / ASP.NET MVC
+- ☁️ **Learning and practice:** Microsoft Azure AI & machine learning workflows
+- 🎓 **Certification:** Microsoft Azure AI Fundamentals (AI-900)
+- 🤝 **Open to:** Development, application support, technical support, and AI/automation opportunities in Berlin or remote-friendly teams
+
+## Technical skills
+
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | JavaScript, TypeScript, React, HTML5, CSS3, SCSS, Tailwind CSS, Bootstrap, Vite |
+| **Backend & APIs** | Node.js, Express, REST APIs, Socket.IO, C#, ASP.NET MVC |
+| **Data & databases** | MongoDB, SQL fundamentals |
+| **Cloud & automation** | Microsoft Azure (learning projects), n8n, Google Sheets integrations |
+| **Developer tools** | Git, GitHub, VS Code, Visual Studio, Postman |
+
+## Featured projects
+
+These projects show how I approach product development, real-time applications, API integrations, and automation.
+
+### 💬 CodeSquareChat — real-time messaging application
+
+A full-stack team project featuring chat rooms, private messaging, user authentication, and profile management. Built with a React frontend and a Node.js / Express backend, with Socket.IO for real-time communication.
+
+**Stack:** React · TypeScript · Vite · SCSS · Node.js · Express · Socket.IO · MongoDB · JWT
+
+[Frontend repository](https://github.com/Onid89/csc-frontend) · [Backend repository](https://github.com/Onid89/csc-backend)
+
+### ⚙️ Job Application Tracker — n8n workflow automation
+
+An automation workflow designed to make job-application tracking more efficient. It collects form submissions, stores them in Google Sheets, sends confirmation emails, and triggers follow-up reminders.
+
+**Stack:** n8n · Google Sheets · Gmail · Workflow automation
+
+![n8n workflow overview](https://raw.githubusercontent.com/Onid89/n8n-job-application-tracker/main/screenshots/workflow-overview.png)
+
+[View repository and screenshots](https://github.com/Onid89/n8n-job-application-tracker)
+
+### 🌐 Personal Portfolio — Gerardo Michele Mussuto
+
+A responsive web portfolio introducing my background, technical skills, and software projects.
+
+**Stack:** React · TypeScript · Vite · Tailwind CSS
+
+![Personal portfolio screenshot](./assets/preview-portfolio.png)
+
+[Live website](https://www.dino-webservices.de) · [Source code](https://github.com/Onid89/onid89-creative-code-showcase)
+
+### 🌍 World Trivia Game
+
+An interactive country-themed quiz with timed questions, score tracking, answer explanations, sound effects, and replay functionality.
+
+**Focus:** Interactive UI · State management · Timers · User feedback
+
+![World Trivia Game opening screen](https://raw.githubusercontent.com/Onid89/Trivia-Game/main/world-trivia-project/src/images/Trivia-OpenScreen.png)
+
+[View repository](https://github.com/Onid89/Trivia-Game)
+
+### 🎭 March in Opera — C# console application
+
+A console application showing Berlin opera houses and scheduled performances, including event details and a random opera recommendation. A small project combining my artistic background with software development.
+
+**Stack:** C# · .NET
+
+[View repository](https://github.com/Onid89/MarchInOpera)
+
+## More projects
+
+### ☁️ Weather App
+
+A lightweight weather interface built with vanilla JavaScript and a weather API.
+
+![Weather App screenshot](./assets/Weather-App.png)
+
+[Live demo](https://onid89.github.io/Weather-App) · [Source code](https://github.com/Onid89/Weather-App)
 
 
-## Contact
-| Mail | LinkedIn |
-|:----:|:--------:|
-| <a href="mailto:dinomussuto89@gmail.com"><img src="assets/mail-svgrepo-com (1).svg" width="50" alt="Email Icon" /><br/>dinomussuto89@gmail.com</a> | <a href="www.linkedin.com/in/gerardo-michele-mussuto" target="_blank"><img src="assets/linkedin-svgrepo-com (1).svg" width="50" alt="LinkedIn Icon" /><br/>LinkedIn – Gerardo Michele Mussuto</a> |
 
-## Tech Stack
+| Project | What it demonstrates | Links |
+| --- | --- | --- |
+| ⚡ **Pokémon API Explorer** | Working with the Fetch API, user input, API responses and error handling | [Code](https://github.com/Onid89/pokemon-fetch-data-api) |
 
-### Layout Design
+## Currently developing
 
-| HTML5 | CSS3 | SASS | Tailwind | Bootstrap | Figma | React |
-|:-----:|:----:|:----:|:--------:|:---------:|:-----:|:-----:|     
-| <img src="assets/html-5-svgrepo-com.svg" width="40"/> | <img src="assets/css-3-svgrepo-com.svg" width="40"/> | <img src="assets/scss2-svgrepo-com.svg" width="40"/> | <img src="assets/tailwind-svgrepo-com.svg" width="40"/> | <img src="assets/bootstrap-4-logo-svgrepo-com.svg" width="40"/> | <img src="assets/figma-svgrepo-com.svg" width="40"/> | <img src="assets/react-svgrepo-com.svg" width="40"/> |
+I'm continuing to build practical projects around **AI-assisted workflows, application development, and automation**. I value clean documentation, clear user experiences, and solutions that solve real problems.
 
-### Frontend Development
+## Let's connect
 
-| JavaScript | TypeScript | React | Git | Redux |
-|:----------:|:----------:|:-----:|:---:|:-----:|
-| <img src="assets/javascript-svgrepo-com.svg" width="40"/> | <img src="assets/typescript-svgrepo-com.svg" width="40"/> | <img src="assets/react-svgrepo-com.svg" width="40"/> | <img src="assets/git-svgrepo-com.svg" width="40"/> | <img src="assets/redux-logo-svgrepo-com.svg" width="40"/> |
+I'm interested in collaborating with developers, startup teams, and companies working on meaningful software and automation.
 
-### Backend Development
-
-| MongoDB | Node | Express | RestAPI |
-|:-------:|:----:|:-------:|:-------:|
-| <img src="assets/mongodb-svgrepo-com.svg" width="50"/> | <img src="assets/node-js-svgrepo-com.svg" width="50"/> | <img src="assets/express-svgrepo-com.svg" width="50"/> | <img src="assets/rest-api-svgrepo-com.svg" width="50"/> |
-
+📫 **Email:** [dinomussuto89@gmail.com](mailto:dinomussuto89@gmail.com)  
+💼 **LinkedIn:** [gerardo-michele-mussuto](https://www.linkedin.com/in/gerardo-michele-mussuto/)  
+🌐 **Portfolio:** [dino-webservices.de](https://www.dino-webservices.de)
 
 ---
 
-##  My Projects
-
-### Portfolio - Gerardo Michele Mussuto
-| Preview | Links | Tech Stack |
-|:-------:|:-----:|:----------:|
-![Preview Screenshot](./assets/preview-portfolio.png) | [Demo](https://www.dino-webservices.de)<br><br>[Repo](https://github.com/Onid89/onid89-creative-code-showcase) | <img src="assets/react-svgrepo-com.svg" width="40"/> <img src="assets/tailwind-svgrepo-com.svg" width="40"/> <img src="assets/vite-svgrepo-com.svg" width="40"/> |
-
----
-
-Weather App
-
-| Preview | Links | Technical Stack |
-|:-------:|:-----:| --------------- |
-![Preview Screenshot](./assets/Weather-App.png) | [Demo](https://onid89.github.io/Weather-App)<br><br>[Repo](https://github.com/Onid89/Weather-App) | <img src="assets/javascript-svgrepo-com.svg" width="40"/> <img src="assets/html-5-svgrepo-com.svg" width="40"/> <img src="assets/css-3-svgrepo-com.svg" width="40"/> |
-
-
----
-
-Opera Project
-
-| Preview | Links | Technical Stack |
-|:-------:|:-----:| --------------- |
-
----
-
-PokémonAPI
-
-| Preview | Links | Technical Stack |
-|:-------:|:-----:| --------------- |
-
----
-
-### GAMES
-
-Trivia Game
-| Preview | Links | Technical Stack |
-|:-------:|:-----:| --------------- |
----
-
-### TOOLS
-
-Code Square Chat
-
-| Preview | Links | Technical Stack |
-|:-------:|:-----:| --------------- |
----
+<div align="center"><sub>Thanks for visiting my GitHub profile!</sub></div>
