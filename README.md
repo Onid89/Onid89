@@ -54,6 +54,8 @@ An automation workflow designed to make job-application tracking more efficient.
 
 **Stack:** n8n · Google Sheets · Gmail · Workflow automation
 
+![n8n workflow overview](https://raw.githubusercontent.com/Onid89/n8n-job-application-tracker/main/screenshots/workflow-overview.png)
+
 [View repository and screenshots](https://github.com/Onid89/n8n-job-application-tracker)
 
 ### 🌐 Personal Portfolio — Gerardo Michele Mussuto
@@ -62,15 +64,17 @@ A responsive web portfolio introducing my background, technical skills, and soft
 
 **Stack:** React · TypeScript · Vite · Tailwind CSS
 
-[Live website](https://www.dino-webservices.de) · [Source code](https://github.com/Onid89/onid89-creative-code-showcase)
+![Personal portfolio screenshot](./assets/preview-portfolio.png)
 
-![Portfolio preview](./assets/preview-portfolio.png)
+[Live website](https://www.dino-webservices.de) · [Source code](https://github.com/Onid89/onid89-creative-code-showcase)
 
 ### 🌍 World Trivia Game
 
 An interactive country-themed quiz with timed questions, score tracking, answer explanations, sound effects, and replay functionality.
 
 **Focus:** Interactive UI · State management · Timers · User feedback
+
+![World Trivia Game opening screen](https://raw.githubusercontent.com/Onid89/Trivia-Game/main/world-trivia-project/src/images/Trivia-OpenScreen.png)
 
 [View repository](https://github.com/Onid89/Trivia-Game)
 
@@ -84,9 +88,18 @@ A console application showing Berlin opera houses and scheduled performances, in
 
 ## More projects
 
+### ☁️ Weather App
+
+A lightweight weather interface built with vanilla JavaScript and a weather API.
+
+![Weather App screenshot](./assets/Weather-App.png)
+
+[Live demo](https://onid89.github.io/Weather-App) · [Source code](https://github.com/Onid89/Weather-App)
+
+
+
 | Project | What it demonstrates | Links |
 | --- | --- | --- |
-| ☁️ **Weather App** | Fetching and displaying weather data through an API using vanilla JavaScript | [Demo](https://onid89.github.io/Weather-App) · [Code](https://github.com/Onid89/Weather-App) |
 | ⚡ **Pokémon API Explorer** | Working with the Fetch API, user input, API responses and error handling | [Code](https://github.com/Onid89/pokemon-fetch-data-api) |
 
 ## Currently developing
